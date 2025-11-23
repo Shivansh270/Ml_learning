@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Environment & IDE
+.env
+venv/
+.envrc
+.vscode/
+.DS_Store
